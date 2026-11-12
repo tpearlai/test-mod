@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+[[mods]]
+modId="locusthorror"
+version="${file.jarVersion}"
+displayName="The Locust Horror"
+authors="The Locust Horror Team"
+description="A psychological horror stalker entity for Minecraft 1.20.1."
+[[dependencies.locusthorror]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.locusthorror]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.20.2)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.locusthorror]]
+modId="gfbs_gltf"
+mandatory=true
+versionRange="[1.5.1,)"
+ordering="AFTER"
+side="BOTH"

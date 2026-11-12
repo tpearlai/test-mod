@@ -1,0 +1,13 @@
+{
+  "meshes": 8,
+  "skins": 1,
+  "animations": [
+    "Idle",
+    "Walk",
+    "Run",
+    "Jumpscare",
+    "TV Crawl",
+    "CrocuhWalk",
+    "CrouchIdle"
+  ]
+}

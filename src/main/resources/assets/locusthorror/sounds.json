@@ -1,0 +1,110 @@
+{
+  "chase_music": {
+    "sounds": [
+      {
+        "name": "locusthorror:chase_music",
+        "stream": true
+      }
+    ],
+    "subtitle": "The Locust: chase music"
+  },
+  "footsteps": {
+    "sounds": [
+      {
+        "name": "locusthorror:footsteps",
+        "stream": false
+      }
+    ],
+    "subtitle": "The Locust: footsteps"
+  },
+  "heartbeat": {
+    "sounds": [
+      {
+        "name": "locusthorror:heartbeat",
+        "stream": false
+      }
+    ],
+    "subtitle": "The Locust: heartbeat"
+  },
+  "impact": {
+    "sounds": [
+      {
+        "name": "locusthorror:impact",
+        "stream": false
+      }
+    ],
+    "subtitle": "The Locust: impact"
+  },
+  "voice_watcher_2": {
+    "sounds": [
+      {
+        "name": "locusthorror:voice_watcher_2",
+        "stream": false
+      }
+    ],
+    "subtitle": "The Locust: voice watcher 2"
+  },
+  "breathing": {
+    "sounds": [
+      {
+        "name": "locusthorror:breathing",
+        "stream": false
+      }
+    ],
+    "subtitle": "The Locust: breathing"
+  },
+  "door_knock": {
+    "sounds": [
+      {
+        "name": "locusthorror:door_knock",
+        "stream": false
+      }
+    ],
+    "subtitle": "The Locust: door knock"
+  },
+  "paranoia_ambient": {
+    "sounds": [
+      {
+        "name": "locusthorror:paranoia_ambient",
+        "stream": true
+      }
+    ],
+    "subtitle": "The Locust: paranoia ambient"
+  },
+  "teleport": {
+    "sounds": [
+      {
+        "name": "locusthorror:teleport",
+        "stream": false
+      }
+    ],
+    "subtitle": "The Locust: teleport"
+  },
+  "voice_mimic_1": {
+    "sounds": [
+      {
+        "name": "locusthorror:voice_mimic_1",
+        "stream": false
+      }
+    ],
+    "subtitle": "The Locust: voice mimic 1"
+  },
+  "voice_watcher_1": {
+    "sounds": [
+      {
+        "name": "locusthorror:voice_watcher_1",
+        "stream": false
+      }
+    ],
+    "subtitle": "The Locust: voice watcher 1"
+  },
+  "window_scratch": {
+    "sounds": [
+      {
+        "name": "locusthorror:window_scratch",
+        "stream": false
+      }
+    ],
+    "subtitle": "The Locust: window scratch"
+  }
+}

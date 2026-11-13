@@ -27,7 +27,7 @@ public class LocustEntity extends Monster {
  private State state=State.STALK;
  private int stateTicks=0, soundCooldown=0, doorCooldown=0, scareCooldown=0;
  private boolean chasing=false;
- public LocustEntity(EntityType<? extends Mob> type,Level level){super(type,level);this.xpReward=0;}
+ public LocustEntity(EntityType<? extends Monster> type,Level level){super(type,level);this.xpReward=0;}
  @Override protected void registerGoals(){
   goalSelector.addGoal(0,new FloatGoal(this));
   goalSelector.addGoal(2,new MeleeAttackGoal(this,1.25,true));
